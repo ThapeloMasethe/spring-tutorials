@@ -1,1 +1,1 @@
-# spring-boot-tutorials
+# spring-tutorials
